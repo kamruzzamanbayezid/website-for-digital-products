@@ -66,3 +66,38 @@
     color: white;
     border-radius: 5px;
 }
+
+.about-head{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.about-photo{
+    width: 320px;
+}
+
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    align-items: center;
+}
+
+.about-head2{
+    margin-bottom: 15px;
+}
+
+.about-para{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.puss{
+    background-color: black;
+    color: white;
+}
+
+.puss:hover{
+    color: black;
+}
